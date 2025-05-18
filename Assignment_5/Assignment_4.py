@@ -1,4 +1,4 @@
-def Vote(Value1,Value2,Value3):
+def Comp(Value1,Value2,Value3):
 
     if  (Value1 >  Value2) and (Value1 >  Value3) :
         print("-"*48)
@@ -18,7 +18,7 @@ def main():
     Value2=int(input("Enter 2nd  : "))
     Value3=int(input("Enter 3rd  : "))
     
-    Vote(Value1,Value2,Value3)
+    Comp(Value1,Value2,Value3)
     print("-"*48)
     
 if __name__ == "__main__":
