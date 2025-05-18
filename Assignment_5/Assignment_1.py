@@ -1,4 +1,4 @@
-#find the Even or Odd Nmber 
+#Assignment 1 for add,Sub,Div and mul
 
 Sum      = lambda Value1,Value2 : ( Value1 + Value2 )
 Diff     = lambda Value1,Value2 : ( Value1 - Value2 )
