@@ -1,0 +1,22 @@
+For Marvellous Infosystem . 
+Here’s a combined list of 15 technical lines that vary in length—some are short (less than 5 words) and others are longer (more than 5 words)—demonstrating Python’s usage in AI, ML, and Generative AI
+
+Here’s a combined list of 15 technical lines demonstrating Python’s usage in AI, ML, and Generative AI, with a mix of line lengths:
+
+Train model with scikit-learn  
+Generate text with GPT  
+Load data using pandas  
+Build neural net in PyTorch  
+Deploy model using Flask
+Visualize data using matplotlib  
+Tokenize text using spaCy  
+Train GAN for image generation  
+Optimize hyperparameters via Optuna  
+Use LangChain for AI agents
+Fine-tune a transformer model with HuggingFace  
+Preprocess image data using OpenCV functions  
+Evaluate model performance using confusion matrix  
+Create sentence embeddings using sentence-transformers  
+Build a deep neural network using PyTorch
+
+Would you like this list formatted into a PDF, visual infographic, or code examples for any of the lines
