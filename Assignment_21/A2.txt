@@ -1,0 +1,769 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~ Marvallous Infosystem ~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+---------------- Application End.-----------------------
+~~~~~~~~~~~~~~~ Execution Time :  10.128 ~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~ Thankyou For using our Applicaton ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~ Marvallous Infosystem ~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~ Marvallous Infosystem ~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+---------------- Application End.-----------------------
+~~~~~~~~~~~~~~~ Execution Time :  9.464 ~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~ Thankyou For using our Applicaton ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~ Marvallous Infosystem ~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~ Marvallous Infosystem ~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+
+running System Idle Process
+running System
+running fontdrvhost.exe
+stopped 
+running Registry
+running chrome.exe
+running smss.exe
+running svchost.exe
+running fontdrvhost.exe
+running WUDFHost.exe
+running csrss.exe
+running wininit.exe
+running csrss.exe
+running msedgewebview2.exe
+running conhost.exe
+running winlogon.exe
+running services.exe
+running LsaIso.exe
+running lsass.exe
+running msedgewebview2.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running WUDFCompanionHost.exe
+running GoToAssistLoggerProcess.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running msedgewebview2.exe
+running CSFalconContainer.exe
+running conhost.exe
+running amdpmfservice.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running nxtupdater.exe
+running svchost.exe
+running svchost.exe
+running AppVShNotify.exe
+running svchost.exe
+running svchost.exe
+running chrome.exe
+running svchost.exe
+running svchost.exe
+running chrome.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running python.exe
+running svchost.exe
+running pc-client.exe
+running svchost.exe
+running dwm.exe
+running AuthManSvr.exe
+running msedgewebview2.exe
+running msedgewebview2.exe
+running chrome.exe
+running CsSystemTray_7.25.19706.0.exe
+running chrome.exe
+running svchost.exe
+running svchost.exe
+running chrome.exe
+running svchost.exe
+running svchost.exe
+running nxtcssu.exe
+running nxtcoordinator.exe
+running nxtsvc.exe
+running svchost.exe
+running svchost.exe
+running ArelliaACSvc.exe
+running WUDFHost.exe
+running svchost.exe
+running svchost.exe
+running chrome.exe
+running atiesrxx.exe
+running amdfendrsr.exe
+running svchost.exe
+running msedgewebview2.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running WUDFHost.exe
+running chrome.exe
+running svchost.exe
+running svchost.exe
+running WmiPrvSE.exe
+running chrome.exe
+running WUDFCompanionHost.exe
+running svchost.exe
+running WUDFHost.exe
+running chrome.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running MemCompression
+running RuntimeBroker.exe
+running SystemSettingsBroker.exe
+running nxteufb.exe
+running svchost.exe
+running svchost.exe
+running chrome.exe
+running NgcIso.exe
+running svchost.exe
+running EPDService.exe
+running svchost.exe
+running svchost.exe
+running atieclxx.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running msedgewebview2.exe
+running dllhost.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running msedgewebview2.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running SecurityHealthSystray.exe
+running msedgewebview2.exe
+running Code.exe
+running svchost.exe
+running AcroRd32.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running ms-teams.exe
+running chrome.exe
+running svchost.exe
+running chrome.exe
+running chrome.exe
+running Arellia.Agent.Service.exe
+running 1E.Client.exe
+running svchost.exe
+running SmartStandby.exe
+running FusionAPI.exe
+running LITSSvc.exe
+running svchost.exe
+running ibmpmsvc.exe
+running CSFalconService.exe
+running LenovoVantageService.exe
+running DAX3API.exe
+running LenovoVisionService.exe
+running PanGPS.exe
+running MpDefenderCoreService.exe
+running RtkAudUService64.exe
+running svchost.exe
+running snowagent.exe
+running UpdaterService.exe
+running msedgewebview2.exe
+running UDClientService.exe
+running MsSense.exe
+running GoodixSessionService.exe
+running svchost.exe
+running GoToAssistProcessChecker.exe
+running fppsvc.exe
+running sqlwriter.exe
+running MsMpEng.exe
+running GoToAssistCrashHandler.exe
+running RuntimeBroker.exe
+running SelfServicePlugin.exe
+running AppVClient.exe
+running sqlservr.exe
+running AggregatorHost.exe
+running sqlceip.exe
+running msedgewebview2.exe
+running chrome.exe
+running msedgewebview2.exe
+running chrome.exe
+running chrome.exe
+running CSFalconContainer.exe
+running svchost.exe
+running CSFalconContainer.exe
+running GoToAssistCustomerAttendedApp.exe
+running msedgewebview2.exe
+running msedge.exe
+running msedgewebview2.exe
+running tphkload.exe
+running chrome.exe
+running chrome.exe
+running kvoop.exe
+running DAX3API.exe
+running amdpmfserviceuser.exe
+running CSFalconContainer.exe
+running chrome.exe
+running GoToAssistCrashHandler.exe
+running GoToAssistCrashHandler.exe
+running WmiPrvSE.exe
+running svchost.exe
+running msedge.exe
+stopped LockApp.exe
+running svchost.exe
+running msedgewebview2.exe
+running GoToAssistRemoteControl.exe
+running smartscreen.exe
+running chrome.exe
+running RtkAudUService64.exe
+running GoToAssistCrashHandler.exe
+running svchost.exe
+running SecurityHealthService.exe
+running taskhostw.exe
+running chrome.exe
+running svchost.exe
+running EPDCtrl.exe
+running msedgewebview2.exe
+running svchost.exe
+running msedgewebview2.exe
+running vds.exe
+running tposd.exe
+running msedgewebview2.exe
+running msedgewebview2.exe
+running sihost.exe
+running msedgewebview2.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running svchost.exe
+running taskhostw.exe
+running shtctky.exe
+running PowerMgr.exe
+running PanGPA.exe
+running Lenovo.Modern.ImController.exe
+running AppVStreamingUX.exe
+running svchost.exe
+running conhost.exe
+running msedgewebview2.exe
+running GoToAssistCustomerAttendedAppUi.exe
+running chrome.exe
+running RtkAudUService64.exe
+running dllhost.exe
+running svchost.exe
+running nxtusm.exe
+running kvoop.exe
+running wepsvc.exe
+running WidgetService.exe
+running svchost.exe
+running svchost.exe
+running nxtray.exe
+running GoToAssistCrashHandler.exe
+running chrome.exe
+running msedgewebview2.exe
+running ApplicationFrameHost.exe
+running chrome.exe
+running msedgewebview2.exe
+running Microsoft.Notes.exe
+running RuntimeBroker.exe
+running 1E.Client.Interaction.exe
+running uhssvc.exe
+running svchost.exe
+running Widgets.exe
+running RuntimeBroker.exe
+running chrome.exe
+running RuntimeBroker.exe
+running RdrCEF.exe
+running conhost.exe
+running msedgewebview2.exe
+running LocationNotificationWindows.exe
+running snipaste.exe
+running chrome.exe
+running msedgewebview2.exe
+running svchost.exe
+running kvoop.exe
+running msedge.exe
+running ctfmon.exe
+running chrome.exe
+running svchost.exe
+running conhost.exe
+running LenovoVantage-(VantageCoreAddin).exe
+running chrome.exe
+running chrome.exe
+running conhost.exe
+running chrome.exe
+running msedgewebview2.exe
+running UserOOBEBroker.exe
+running SearchProtocolHost.exe
+running chrome.exe
+running msedge.exe
+running AppProvisioningPlugin.exe
+running audiodg.exe
+running nxtbsm.exe
+running nxtcod.exe
+running chrome.exe
+running AMDRSServ.exe
+running cncmd.exe
+running svchost.exe
+running concentr.exe
+running wfcrun32.exe
+running msedgewebview2.exe
+running msedgewebview2.exe
+running svchost.exe
+running Code.exe
+running kvoop.exe
+running chrome.exe
+running RdrCEF.exe
+running ONENOTE.EXE
+running msedgewebview2.exe
+running chrome.exe
+running chrome.exe
+running msedgewebview2.exe
+running RadeonSoftware.exe
+running svchost.exe
+running svchost.exe
+running Microsoft.Management.Services.IntuneWindowsAgent.exe
+running AnalyticsSrv.exe
+running amdow.exe
+running AMDRSSrcExt.exe
+running chrome.exe
+running msedgewebview2.exe
+running Receiver.exe
+running pet.exe
+running Code.exe
+running ms-teams.exe
+running redirector.exe
+running chrome.exe
+running SelfService.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running svchost.exe
+running LenovoVantage-(GenericMessagingAddin).exe
+running msedgewebview2.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running usercontextservice.exe
+running chrome.exe
+running chrome.exe
+running kvoop.exe
+running chrome.exe
+running RuntimeBroker.exe
+running chrome.exe
+running conhost.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running RuntimeBroker.exe
+running ONENOTEM.EXE
+running dllhost.exe
+running svchost.exe
+running SenseTVM.exe
+running kvoop.exe
+running kvoop.exe
+running chrome.exe
+running msedgewebview2.exe
+running cmd.exe
+running chrome.exe
+running msedgewebview2.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running svchost.exe
+running RuntimeBroker.exe
+running chrome.exe
+running svchost.exe
+running StartMenuExperienceHost.exe
+running OfficeClickToRun.exe
+running msedgewebview2.exe
+running TextInputHost.exe
+running SearchFilterHost.exe
+running Code.exe
+running python.exe
+running chrome.exe
+running chrome.exe
+running Dserui.exe
+running conhost.exe
+running chrome.exe
+running chrome.exe
+running svchost.exe
+running msedge.exe
+running msedgewebview2.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running Code.exe
+running chrome.exe
+running RuntimeBroker.exe
+running conhost.exe
+stopped RtkUWP.exe
+running RuntimeBroker.exe
+running Code.exe
+running WmiPrvSE.exe
+running chrome.exe
+running chrome.exe
+running dllhost.exe
+running WindowsTerminal.exe
+running svchost.exe
+running chrome.exe
+running chrome.exe
+running RdrCEF.exe
+running msedgewebview2.exe
+running chrome.exe
+running chrome.exe
+running spoolsv.exe
+running msedge.exe
+running SenseNdr.exe
+running svchost.exe
+running Code.exe
+running chrome.exe
+running chrome.exe
+running AcroRd32.exe
+running RdrCEF.exe
+running msedgewebview2.exe
+running chrome.exe
+running msedgewebview2.exe
+running Code.exe
+running kvoop.exe
+running enterprise_companion.exe
+running chrome.exe
+running notepad++.exe
+running Code.exe
+running chrome.exe
+running chrome.exe
+running Photos.exe
+running chrome.exe
+running chrome.exe
+running kvoop.exe
+running Code.exe
+running chrome.exe
+running chrome.exe
+running Code.exe
+running chrome.exe
+running Code.exe
+running chrome.exe
+running powershell.exe
+running OpenConsole.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+stopped ShellExperienceHost.exe
+stopped SearchHost.exe
+running explorer.exe
+running WmiPrvSE.exe
+running chrome.exe
+running EndPointClassifier.exe
+running chrome.exe
+running chrome.exe
+running msedge.exe
+running powershell.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running LITSSvc.exe
+running chrome.exe
+running conhost.exe
+running kvoop.exe
+running svchost.exe
+running enterprise_companion.exe
+running SenseIR.exe
+running F1EUI.exe
+running WmiApSrv.exe
+running pc-print.exe
+stopped SystemSettings.exe
+running OneDrive.exe
+running chrome.exe
+running pc-print-deploy-client.exe
+running chrome.exe
+stopped backgroundTaskHost.exe
+running chrome.exe
+running chrome.exe
+running chrome.exe
+running pc-print-deploy-client.exe
+running chrome.exe
+running SearchIndexer.exe
+running AMDGameConfigServ.exe
+running chrome.exe
+running chrome.exe
+running Microsoft.SharePoint.exe
+---------------- Application End.-----------------------
+~~~~~~~~~~~~~~~ Execution Time :  11.524 ~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~ Thankyou For using our Applicaton ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~ Marvallous Infosystem ~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~ Marvallous Infosystem ~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+
+---------------- Application End.-----------------------
